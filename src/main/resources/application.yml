@@ -1,0 +1,15 @@
+javafx:
+  title: 差分包生成平台
+  appicons: /icon/icon.png
+  stage:
+    width: 1060
+    height: 650
+#    style: DECORATED  # javafx.stage.StageStyle [DECORATED, UNDECORATED, TRANSPARENT, UTILITY, UNIFIED]
+#    resizable: false
+configFilePath: /Users/fv/Desktop/cofig.json
+server:
+  port: 50000
+#  additionalPorts: 65535
+logging:
+  level:
+    root: info
